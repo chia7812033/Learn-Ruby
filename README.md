@@ -1,2 +1,2 @@
 # Learn-Ruby
-I learn ruby in this repo
+I learn ruby in this repository
